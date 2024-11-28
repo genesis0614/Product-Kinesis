@@ -27,9 +27,9 @@ S3_BACKUP_MODE: false
 CLOUDWATCH_RETENTION_DAYS: 3
 API_STAGE_NAME: "live"
 EMAIL_ADDRESS: "tlstprl22@gmail.com"
-GITHUB_USERNAME: "tomandjerry559"
-GITHUB_REPO_NAME: "2nd"
-CONNECTION_ARN: "arn:aws:codeconnections:us-east-1:590183786817:connection/52cf7768-c93e-47af-a13c-5eedfea116c2"
+GITHUB_USERNAME: "genesis0614"
+GITHUB_REPO_NAME: "Product-Kinesis"
+CONNECTION_ARN: "arn:aws:codeconnections:us-east-1:590183786817:connection/297903c8-ab8f-436c-8564-3555e924f26c"
 accounts:
   - NAME: "QA"
     ACCOUNT: "590183786817"
